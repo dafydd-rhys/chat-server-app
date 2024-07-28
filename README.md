@@ -1,5 +1,5 @@
 # chat-server-app
-If you find any issues please post them in the issues section, also star this repository if you like the application - download [here](https://github.com/dafydd-rhys/ambigious/releases).
+If you find any issues please post them in the issues section, also star this repository if you like the application - download [here](https://github.com/dafydd-rhys/chat-server-app/releases).
 
 ## Overview
 
